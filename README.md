@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to the use of undef values in string comparisons. The script highlights the importance of handling undef values explicitly to avoid unexpected behavior. A solution is also provided.
